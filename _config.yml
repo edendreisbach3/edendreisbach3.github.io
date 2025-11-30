@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "edend_headshot.JPEG"
+  avatar           : "/Downloads/edend_headshot.JPEG"
   name             : "Eden Dreisbach"
   pronouns         : # example: "she/her"  
   bio              : "My name is Eden Dreisbach and I am a fourth year undergraduate studying physics at UCLA. I am planning to pursue research in plasma physics on magnetic confinement fusion devices."
