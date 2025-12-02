@@ -14,9 +14,9 @@ main:
   - title: "Research"
     children:
       - title: "Resume"
-        url: "/files/resume.pdf"
+        url: "files/edend_gradresume.pdf"
       - title: "ORCID"
         url: "https://orcid.org/0009-0003-4486-8290"
       - title: "APS DPP Poster"
-        url: "/files/aps-dpp-poster.pdf"
+        url: "files/edend_apsdpp_poster.pdf"
 
