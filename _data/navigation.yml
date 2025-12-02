@@ -11,12 +11,14 @@ main:
   - title: "Home"
     url: "/"
 
-  - title: "Research"
-    children:
-      - title: "Resume"
-        url: "files/edend_gradresume.pdf"
-      - title: "ORCID"
-        url: "https://orcid.org/0009-0003-4486-8290"
-      - title: "APS DPP Poster"
-        url: "files/edend_apsdpp_poster.pdf"
+  - title: "Resume"
+    url: "/files/edend_gradresume.pdf"
+
+  - title: "ORCID"
+    url: "https://orcid.org/0009-0003-4486-8290"
+
+  - title: "APS DPP Poster"
+    url: "/files/edend_apsdpp_poster.pdf"
+
+
 
